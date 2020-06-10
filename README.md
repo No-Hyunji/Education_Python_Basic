@@ -1,6 +1,11 @@
 # Project Title
 
-One Paragraph of project description goes here
+# Education Python Basic book:heart_eyes:
+
+  Python 기본 프로그래밍 언어 입문자를 위한 기본 내용
+  
+## Developer Environment
+
 
 This initially appeared on
 [gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2), but as
